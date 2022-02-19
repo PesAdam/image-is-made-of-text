@@ -2,7 +2,7 @@ const density = "Ñ@#W$9876543210?!abc;:+=-,._ ";
 let hauko;
 
 function preload(){
-    hauko = loadImage("hauko.jpg");
+    hauko = loadImage("apple.jpeg");
 }
 
 function setup(){
